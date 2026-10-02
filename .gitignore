@@ -1,0 +1,19 @@
+# Environment variables / secrets
+.env
+
+# Raw datasets
+data/*.csv
+
+# Generated reports
+reports/*.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Power BI
+*.pbix
+
+# OS / IDE
+.DS_Store
+.vscode/
